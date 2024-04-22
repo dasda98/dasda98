@@ -18,27 +18,22 @@ My favorite programming languages, tools, frameworks, etc.
 I have programmed in many languages such as Java, C#, javascript, but the ones below are my favorites.
 Mostly in the company I program in Python.
 
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,python" />
-    </a>
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python" />
+</a>
 
 ### Tools
 
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,docker,postgresql" />
-    </a>
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,postgresql" />
+</a>
 
 ### Frameworks and libraries
 
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,sklearn,opencv" />
-    </a>
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,sklearn,opencv" />
+</a>
+
 
 ### Others
 My favorite operating system is
