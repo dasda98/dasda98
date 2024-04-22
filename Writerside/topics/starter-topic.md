@@ -48,10 +48,10 @@ You can see [my configuration](https://github.com/dasda98/XMonad-config).
 I am currently targeting GameDev by learning UnrealEngine 5+. Write some projects regarding computer graphics 
 using CUDA, Vulkan.
 
-<seealso>
-    <category ref="wrs">
-        <a href="https://github.com/dasda98/Cinema-System">Cinema System written in Python Django</a>
-        <a href="https://github.com/dasda98/Validation-Measure">Validation Measures (accuracy, f1-score, etc)</a>
-        <a href="https://github.com/dasda98/XMonad-config">XMonad configuration</a>
-    </category>
-</seealso>
+## See also
+
+<a href="https://github.com/dasda98/Cinema-System">Cinema System written in Python Django</a>
+
+<a href="https://github.com/dasda98/Validation-Measure">Validation Measures (accuracy, f1-score, etc)</a>
+
+<a href="https://github.com/dasda98/XMonad-config">XMonad configuration</a>
