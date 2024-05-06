@@ -19,7 +19,7 @@ I have programmed in many languages such as Java, C#, javascript, but the ones b
 Mostly in the company I program in Python.
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </a>
 
 ### Tools
