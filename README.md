@@ -45,8 +45,8 @@ You can see [my configuration](https://github.com/dasda98/XMonad-config).
 
 
 ## Current goals
-I am currently targeting GameDev by learning UnrealEngine 5+. Write some projects regarding computer graphics 
-using CUDA, Vulkan.
+I am currently targeting Vulkan API in C. Write some projects regarding computer graphics 
+using CUDA.
 
 ## See also
 
