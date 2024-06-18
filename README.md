@@ -31,7 +31,7 @@ Mostly in the company I program in Python.
 ### Frameworks and libraries
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,sklearn,opencv" />
+    <img src="https://skillicons.dev/icons?i=flask,opengl,opencv" />
 </a>
 
 
