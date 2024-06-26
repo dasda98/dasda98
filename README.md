@@ -45,8 +45,14 @@ You can see [my configuration](https://github.com/dasda98/XMonad-config).
 
 
 ## Current goals
-I am currently targeting OpenGL in C. Write some projects regarding computer graphics 
-using CUDA. I am focusing on Embedded Systems (ESP32, Arduino, etc.).
+I am currently targeting OpenGL in C. 
+
+Write some projects regarding computer graphics 
+using CUDA. 
+
+I am focusing on Embedded Systems (ESP32, Arduino, etc.).
+
+I'm planning to learn Assembler.
 
 ## See also
 
