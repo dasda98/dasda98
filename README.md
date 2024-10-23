@@ -1,18 +1,14 @@
 # Hi, I'm Jacob 👋
 I am a junior programmer from Poland, focused on Python and C++. The fields of study I graduated from were computer 
-graphics and data communications in the faculty of computer science. I'm a big fan of JetBrains products.
+graphics and data communications in the faculty of computer science. NeoVim user.
 
 <a href="https://www.linkedin.com/in/jakub-wojniak-411968216/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 
-
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasda98&hide=javascript,html)
-
 ## Favourite stuff
-My favorite programming languages, tools, frameworks, etc.
+Programming languages, tools, frameworks, etc.
 
 ### Programming languages
 I have programmed in many languages such as Java, C#, javascript, but the ones below are my favorites.
@@ -36,10 +32,7 @@ Mostly in the company I program in Python.
 
 
 ### Others
-My favorite operating system is
-<img src="https://skillicons.dev/icons?i=linux" />
-based on
-<img src="https://skillicons.dev/icons?i=arch" />
+My favorite operating system is **Linux** based on **Arch**
 
 You can see [my configuration](https://github.com/dasda98/XMonad-config).
 
