@@ -15,7 +15,7 @@ I have programmed in many languages such as Java, C#, javascript, but the ones b
 Mostly in the company I program in Python.
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=c,python" />
 </a>
 
 ### Tools
@@ -36,8 +36,12 @@ My favorite operating system is **Linux** based on **Arch**
 
 You can see [my configuration](https://github.com/dasda98/XMonad-config).
 
-
 ## Current goals
+- [ ] Configs
+        - [ ] Restructure Neovim
+        - [ ] Some changes in XMonad
+- [ ] Learns
+        - [ ] Virtualization (VMware etc.)
 
 ## See also
 
