@@ -37,11 +37,12 @@ My favorite operating system is **Linux** based on **Arch**
 You can see [my configuration](https://github.com/dasda98/XMonad-config).
 
 ## Current goals
-- [ ] Configs
-        - [ ] Restructure Neovim
-        - [ ] Some changes in XMonad
-- [ ] Learns
-        - [ ] Virtualization (VMware etc.)
+Configs:
+- [ ] Restructure Neovim
+- [ ] Some changes in XMonad
+      
+Learns:
+- [ ] Virtualization (VMware etc.)
 
 ## See also
 
