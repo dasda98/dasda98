@@ -1,5 +1,5 @@
 # Hi, I'm Jacob 👋
-I am a junior programmer from Poland, focused on Python and C++. The fields of study I graduated from were computer 
+I am a junior programmer from Poland, focused on Python and C. The fields of study I graduated from were computer 
 graphics and data communications in the faculty of computer science. NeoVim user.
 
 <a href="https://www.linkedin.com/in/jakub-wojniak-411968216/">
@@ -37,17 +37,11 @@ My favorite operating system is **Linux** based on **Arch**
 You can see [my configuration](https://github.com/dasda98/XMonad-config).
 
 ## Current goals
-Configs:
-- [ ] Restructure Neovim
-- [ ] Some changes in XMonad
-      
 Learns:
-- [ ] Virtualization (VMware etc.)
+- [x] Virtualization (VMware etc.)
 
 ## See also
 
 <a href="https://github.com/dasda98/Cinema-System">Cinema System written in Python Django</a>
 
 <a href="https://github.com/dasda98/Validation-Measure">Validation Measures (accuracy, f1-score, etc)</a>
-
-<a href="https://github.com/dasda98/XMonad-config">XMonad configuration</a>
